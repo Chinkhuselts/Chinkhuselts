@@ -17,7 +17,7 @@ I’m a developer with a strong interest in DevSecOps and cloud‑native backend
 
 ## What I’m Working On
 
-Right now I’m building **IAM API V2**, an identity management service. Through this project I’m getting hands‑on experience with several areas of modern development:
+Right now I’m building [**IAM API V2**](https://github.com/Chinkhuselts/iam-api-v2), an identity management service. Through this project I’m getting hands‑on experience with several areas of modern development:
 
 * Infrastructure as Code: Provisioning AWS resources with Terraform.
 * Automation: Setting up CI/CD pipelines with GitHub Actions.
@@ -39,7 +39,7 @@ I believe good software doesn’t just work on my machine—it should run reliab
 
 ## Let’s Connect
 
-I’m always up for talking about clean code, architecture patterns, or the latest in DevSecOps.
+I’m always up for a chat about clean code, architecture patterns, or the latest in DevSecOps.
 
 * GitHub: Check out my repositories to see what I’m building.
 * Contact: Feel free to reach out at [your email address].
