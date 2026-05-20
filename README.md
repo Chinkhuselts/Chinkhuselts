@@ -13,8 +13,8 @@
 
 ---
 
-I’m a developer with a strong interest in DevSecOps and cloud‑native backends. I’m also deepening my knowledge through cybersecurity studies. I enjoy understanding how code runs in live environments—from containers and pipelines to cloud infrastructure—and I’m always learning how to make it more secure and reliable.
-
+I’m a developer with a strong interest in DevSecOps and cloud‑native backends. I’m also deepening my knowledge through cybersecurity studies. I enjoy understanding how code runs in live environment, from containers and pipelines to cloud infrastructure.And I’m always learning how to make it more secure and reliable.
+* Portfolio: [https://chinkhusel.github.io].
 ## What I’m Working On
 
 Right now I’m building [**IAM API V2**](https://github.com/Chinkhuselts/iam-api-v2), an identity management service. Through this project I’m getting hands‑on experience with several areas of modern development:
@@ -42,7 +42,7 @@ I believe good software doesn’t just work on my machine—it should run reliab
 I’m always up for a chat about clean code, architecture patterns, or the latest in DevSecOps.
 
 * GitHub: Check out my repositories to see what I’m building.
-* Contact: Feel free to reach out at [your email address].
+* Contact: Feel free to reach out at [husele1000@gmail.com].
 
 ---
 
