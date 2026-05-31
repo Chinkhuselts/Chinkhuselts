@@ -18,8 +18,15 @@
 I’m a developer with a strong interest in Python, DevSecOps and cloud‑native backends. I’m also deepening my knowledge through cybersecurity studies. I enjoy understanding how code runs in live environment, from containers and pipelines to cloud infrastructure.And I’m always learning how to make it more secure and reliable.
 * Portfolio: https://chinkhuselts.github.io
 ## What I’m Working On
+My first Saas is [ThreatMatrix](https://threatmatrix.duckdns.org/). Visually, the WebGL globe is the star of the show. But honestly? I am way more proud of the invisible stuff sitting underneath it.
 
-Right now I’m building [**IAM API V2**](https://github.com/Chinkhuselts/iam-api-v2), an identity management service. Through this project I’m getting hands‑on experience with several areas of modern development:
+Getting this from a local environment to a production-grade cloud server was a massive learning curve. Over the last few weeks, I managed to:
+Containerize a Next.js / Node.js stack using Docker.
+Build a zero-downtime CI/CD pipeline using GitHub Actions and Watchtower.
+Swap out Nginx for Caddy to automatically negotiate and handle SSL certificates (after wrestling with some serious DNS timeouts!).
+If you've ever fought with Let's Encrypt and a stubborn reverse proxy, you know the absolute relief of finally seeing that secure padlock icon load in the browser. 
+
+I built [**IAM API V2**](https://github.com/Chinkhuselts/iam-api-v2), an identity management service. Through this project I’m getting hands‑on experience with several areas of modern development:
 
 * Infrastructure as Code: Provisioning AWS resources with Terraform.
 * Automation: Setting up CI/CD pipelines with GitHub Actions.
