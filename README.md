@@ -14,7 +14,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
-# 🛡️ ISC2 - CC - Exam passed - Cert Pending
+# 🛡️ ISC2 - CC Certified
 I’m a developer with a strong interest in Python, DevSecOps and cloud‑native backends. I’m also deepening my knowledge through cybersecurity studies. I enjoy understanding how code runs in live environment, from containers and pipelines to cloud infrastructure.And I’m always learning how to make it more secure and reliable.
 
 * Portfolio: https://chinkhuselts.github.io/
