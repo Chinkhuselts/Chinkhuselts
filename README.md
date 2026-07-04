@@ -17,6 +17,18 @@
 # 🛡️ ISC2 - CC Certified
 I’m a developer with a strong interest in Python, DevSecOps and cloud‑native backends. I’m also deepening my knowledge through cybersecurity studies. I enjoy understanding how code runs in live environment, from containers and pipelines to cloud infrastructure.And I’m always learning how to make it more secure and reliable.
 
+# 🛡️ Cybersecurity Labs
+
+## TryHackMe
+
+- **Profile:** [Devil.Kenam](https://tryhackme.com/p/Devil.Kenam)
+- Completed 120+ rooms
+- SOC Level 1 Learning Path
+- Blue Team and Incident Response labs
+- Active Directory and Windows Security
+- Cloud Security
+- Reverse Engineering
+
 * Portfolio: https://chinkhuselts.github.io/
 ## What I’m Working On
 ThreatMatrix. Visually, the WebGL globe is the star of the show. But honestly? I am way more proud of the invisible stuff sitting underneath it.
