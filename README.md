@@ -22,7 +22,7 @@ I’m a developer with a strong interest in Python, DevSecOps and cloud‑native
 ## TryHackMe
 
 - **Profile:** [Devil.Kenam](https://tryhackme.com/p/Devil.Kenam)
-- Completed 120+ rooms
+- Completed 80+ rooms
 - SOC Level 1 Learning Path
 - Blue Team and Incident Response labs
 - Active Directory and Windows Security
