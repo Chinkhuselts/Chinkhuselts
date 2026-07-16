@@ -50,7 +50,7 @@ I built [**IAM API V2**](https://github.com/Chinkhuselts/iam-api-v2), an identit
 
 I try to choose tools that fit the task and help me grow. These are the ones I use most:
 
-* Languages: Python, FastAPI, SQLAlchemy
+* Languages: Python
 * Cloud and Infrastructure: AWS, Terraform, Docker
 * DevOps: GitHub Actions, Linux, Networking
 * Database: PostgreSQL
