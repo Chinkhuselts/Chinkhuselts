@@ -1,69 +1,187 @@
 # Chinkhusel Tsolmonbaatar
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-2C3E50?style=for-the-badge&logo=devsecops&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### Cybersecurity | Blue Team & DFIR | Cloud Security | DevSecOps
 
----
-# 🛡️ ISC2 - CC Certified
-I’m a developer with a strong interest in Python, DevSecOps and cloud‑native backends. I’m also deepening my knowledge through cybersecurity studies. I enjoy understanding how code runs in live environment, from containers and pipelines to cloud infrastructure.And I’m always learning how to make it more secure and reliable.
+I'm a cybersecurity graduate with hands-on experience in security engineering,
+vulnerability analysis, Linux administration, and security automation.
 
-# 🛡️ Cybersecurity Labs
+My interests span Digital Forensics and Incident Response (DFIR), malware analysis,
+security monitoring, and cloud security. I enjoy understanding how systems work
+under the hood, investigating suspicious behavior, and building tools that make
+security operations more efficient and reliable.
 
-## TryHackMe
+My work combines practical cybersecurity labs with Python development,
+cloud infrastructure, and automation.
 
-- **Profile:** [Devil.Kenam](https://tryhackme.com/p/Devil.Kenam)
-- Completed 80+ rooms
-- SOC Level 1 Learning Path
-- Blue Team and Incident Response labs
-- Active Directory and Windows Security
-- Cloud Security
-- Reverse Engineering
+- 🎓 **Education:** BSc in Cybersecurity / Computer Science
+- 🛡️ **Experience:** Security Engineer Intern at Khan Bank
+- 📜 **Certification:** ISC2 Certified in Cybersecurity (CC)
+- 🔍 **Security focus:** Vulnerability analysis, SOC fundamentals, DFIR, and malware analysis
+- ☁️ **Cloud & automation:** OCI, AWS, Docker, Terraform, and CI/CD
+- 🧪 **Practical learning:** TryHackMe — 80+ rooms completed
 
-* Portfolio: https://chinkhuselts.github.io/
-## What I’m Working On
-ThreatMatrix. Visually, the WebGL globe is the star of the show. But honestly? I am way more proud of the invisible stuff sitting underneath it.
-
-Getting this from a local environment to a production-grade cloud server was a massive learning curve. Over the last few weeks, I managed to:
-Containerize a Next.js / Node.js stack using Docker.
-Build a zero-downtime CI/CD pipeline using GitHub Actions and Watchtower.
-Swap out Nginx for Caddy to automatically negotiate and handle SSL certificates (after wrestling with some serious DNS timeouts!).
-If you've ever fought with Let's Encrypt and a stubborn reverse proxy, you know the absolute relief of finally seeing that secure padlock icon load in the browser. 
-
-I built [**IAM API V2**](https://github.com/Chinkhuselts/iam-api-v2), an identity management service. Through this project I’m getting hands‑on experience with several areas of modern development:
-
-* Infrastructure as Code: Provisioning AWS resources with Terraform.
-* Automation: Setting up CI/CD pipelines with GitHub Actions.
-* Reliability: Packaging applications with Docker for consistent deployments.
-* Security: Enabling TLS with Caddy and implementing basic authentication flows.
-
-## Technical Stack
-
-I try to choose tools that fit the task and help me grow. These are the ones I use most:
-
-* Languages: Python
-* Cloud and Infrastructure: AWS, Terraform, Docker
-* DevOps: GitHub Actions, Linux, Networking
-* Database: PostgreSQL
-
-## Engineering Philosophy
-
-I believe good software doesn’t just work on my machine—it should run reliably in the cloud, handle failures gracefully, and be secure from the start. My cybersecurity studies push me to think about defense at every layer, and I’m focused on turning those ideas into practical habits.
-
-## Let’s Connect
-
-I’m always up for a chat about clean code, architecture patterns, or the latest in DevSecOps.
-
-* GitHub: Check out my repositories to see what I’m building.
-* Contact: Feel free to reach out at [husele1000@gmail.com].
+🌐 **Portfolio:** [chinkhuselts.github.io](https://chinkhuselts.github.io/)
+💼 **LinkedIn:** Connect with me
+🔬 **TryHackMe:** [Devil.Kenam](https://tryhackme.com/p/Devil.Kenam)
 
 ---
 
-*The most reliable code is the code that is tested, containerized, and documented.*
+## 🛡️ Experience
+
+### Security Engineer Intern — Khan Bank
+*August – November 2025*
+
+- Analyzed Nessus vulnerability scan results and documented security findings.
+- Automated vulnerability reporting using Python, Pandas, and Excel.
+- Supported Linux administration and troubleshooting.
+- Developed Bash scripts for monitoring and log rotation.
+- Reviewed logs and collaborated with security and DevOps teams using Git, Jira,
+  and Agile workflows.
+
+---
+
+## 🔬 Featured Security Projects
+
+### 1. Malware Analysis & Digital Forensics — CAPEv2
+
+Performed dynamic malware analysis in a sandbox environment, examining process
+behavior, filesystem and registry artifacts, sandbox reports, and indicators
+of compromise (IOCs).
+
+**Focus:** Malware analysis, behavioral investigation, forensic artifacts, and
+technical reporting.
+
+🔗 [View CAPEv2 Analysis](https://github.com/Chinkhuselts/CAPEv2-Analysis)
+
+### 2. ELK Stack + Snort Security Monitoring Lab
+
+Built a hands-on security monitoring environment combining log analysis with
+network intrusion detection.
+
+**Focus:** Security event monitoring, network alerts, log investigation,
+and Blue Team fundamentals.
+
+🔗 [View ELK + Snort Lab](https://github.com/Chinkhuselts/elk-snort-siem-setup)
+
+### 3. Autonomous Cloud Security Agent
+
+Developed a cloud security prototype exploring automated governance and
+AI-assisted risk assessment.
+
+The project combines cloud security workflows, SHA-256 hashing,
+threat-intelligence enrichment, and LLM-assisted analysis.
+
+**Focus:** Oracle Cloud Infrastructure (OCI), security automation,
+cloud governance, and AI-assisted security workflows.
+
+🔗 [View OCI Autonomous Security Agent](https://github.com/Chinkhuselts/oci-autonomous-security-agent)
+
+### 4. IAM API V2
+
+Building an identity management service while developing practical experience
+with cloud infrastructure, containerization, deployment automation, and
+application security.
+
+**Focus:** Python, APIs, AWS, Terraform, Docker, CI/CD, and TLS.
+
+🔗 [View IAM API V2](https://github.com/Chinkhuselts/iam-api-v2)
+
+### 5. ThreatMatrix
+
+Working on a security-focused project that combines a WebGL-based interface
+with cloud deployment and containerized application infrastructure.
+
+**Focus:** Next.js, Node.js, Docker, GitHub Actions, Caddy, and deployment
+automation.
+
+🌐 [Visit my portfolio](https://chinkhuselts.github.io/)
+
+---
+
+## 🧪 Cybersecurity Labs
+
+### TryHackMe
+
+- Completed 80+ rooms.
+- Working through SOC Level 1 and Blue Team material.
+- Practicing incident response and security event analysis.
+- Exploring Windows security, Active Directory, cloud security,
+  and reverse engineering.
+
+🔗 [TryHackMe Profile](https://tryhackme.com/p/Devil.Kenam)
+
+---
+
+## 🛠️ Technical Stack
+
+### Security & Investigation
+- Nessus vulnerability assessment
+- ELK Stack and Snort IDS
+- Malware analysis with CAPEv2
+- Windows event logs and Linux logs
+- Network analysis, TCP/IP, PCAP, and IOCs
+
+### Programming & Automation
+- Python, Pandas, Bash
+- REST APIs and FastAPI
+- Git and GitHub Actions
+
+### Cloud & Infrastructure
+- Oracle Cloud Infrastructure (OCI)
+- AWS
+- Docker and Terraform
+- Linux administration
+- CI/CD and infrastructure automation
+
+### Security Engineering
+- Vulnerability reporting
+- Security monitoring and event triage
+- Incident response fundamentals
+- Cloud security and governance
+- Technical documentation and investigation reporting
+
+---
+
+## 🎓 Education & Certification
+
+- **BSc in Cybersecurity / Computer Science**  
+  University of Economics and Human Sciences (Vizja), Warsaw, Poland  
+  Graduated September 2026.
+
+- **ISC2 Certified in Cybersecurity (CC)**
+- Cisco Networking Basics — Cisco Networking Academy
+
+**Thesis:** *Autonomous Cloud Governance: Leveraging Generative AI for
+Self-Healing OCI CIS Benchmark Compliance.*
+
+---
+
+## 🎯 Current Direction
+
+I'm continuing to develop my skills in Blue Team security operations and
+Digital Forensics and Incident Response, while expanding my knowledge of
+cloud security and security automation.
+
+My goal is to understand systems deeply enough to investigate their behavior,
+identify vulnerabilities, interpret evidence, and build practical security
+solutions.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in cybersecurity opportunities, technical collaboration,
+and conversations about DFIR, malware analysis, security engineering,
+and cloud-native security.
+
+🌐 Portfolio: https://chinkhuselts.github.io/
+
+💻 GitHub: https://github.com/Chinkhuselts
+
+🔬 TryHackMe: https://tryhackme.com/p/Devil.Kenam
+
+📧 Email: husele1000@gmail.com
+
+---
+
+*Understand the system. Investigate the evidence. Build security into every layer.*
